@@ -28,7 +28,7 @@ def main():
 
     g=random.choice(chem)
     #random method choice variable g menyimpan info dari senarai chem 
-    print(g)
+    #print(g)
     guess=None
     #setkan variable guess kepada tiada nilai
 
